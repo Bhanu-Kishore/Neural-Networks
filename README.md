@@ -131,7 +131,7 @@ The trained network correctly classifies all four XOR inputs in the recorded not
 ```text
 Neural-Networks/
 │
-├── Neural_Networks.ipynb
+├── Perceptron_and_MLP.ipynb
 └── README.md
 ```
 
